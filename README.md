@@ -1,6 +1,6 @@
 # Card Website
 
-Portfolio With Vadim
+HTML CSS Cards Website
 
 https://gael-src.github.io/card-website/
 
